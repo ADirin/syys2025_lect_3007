@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKERHUB_CREDENTIALS_ID = 'Docker_Hub'
-        DOCKERHUB_REPO = 'amirdirin/syys2025-3007'
+        DOCKERHUB_REPO = 'amirdirin/syys2025test'
         DOCKER_IMAGE_TAG = 'latest'
         //PATH = "C:\\Program Files\\Docker\\Docker\\resources\\bin;${env.PATH}"
     }
